@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\yuriz\\source\\repos\\Gerenciamento Financeiro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{43529038-1C81-491E-82CC-C1B097F3C2B2}|Gerenciamento Financeiro.csproj|c:\\users\\yuriz\\source\\repos\\gerenciamento financeiro\\gerenciamento financeiro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{43529038-1C81-491E-82CC-C1B097F3C2B2}|Gerenciamento Financeiro.csproj|solutionrelative:gerenciamento financeiro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{43529038-1C81-491E-82CC-C1B097F3C2B2}|Gerenciamento Financeiro.csproj|c:\\users\\yuriz\\source\\repos\\gerenciamento financeiro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43529038-1C81-491E-82CC-C1B097F3C2B2}|Gerenciamento Financeiro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43529038-1C81-491E-82CC-C1B097F3C2B2}|Gerenciamento Financeiro.csproj|c:\\users\\yuriz\\source\\repos\\gerenciamento financeiro\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43529038-1C81-491E-82CC-C1B097F3C2B2}|Gerenciamento Financeiro.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43529038-1C81-491E-82CC-C1B097F3C2B2}|Gerenciamento Financeiro.csproj|c:\\users\\yuriz\\source\\repos\\gerenciamento financeiro\\temp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43529038-1C81-491E-82CC-C1B097F3C2B2}|Gerenciamento Financeiro.csproj|solutionrelative:temp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43529038-1C81-491E-82CC-C1B097F3C2B2}|Gerenciamento Financeiro.csproj|c:\\users\\yuriz\\source\\repos\\gerenciamento financeiro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{43529038-1C81-491E-82CC-C1B097F3C2B2}|Gerenciamento Financeiro.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43529038-1C81-491E-82CC-C1B097F3C2B2}|Gerenciamento Financeiro.csproj|c:\\users\\yuriz\\source\\repos\\gerenciamento financeiro\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43529038-1C81-491E-82CC-C1B097F3C2B2}|Gerenciamento Financeiro.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43529038-1C81-491E-82CC-C1B097F3C2B2}|Gerenciamento Financeiro.csproj|c:\\users\\yuriz\\source\\repos\\gerenciamento financeiro\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -62,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\yuriz\\source\\repos\\Gerenciamento Financeiro\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -75,18 +83,17 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T14:01:34.322Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yuriz\\source\\repos\\Gerenciamento Financeiro\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\yuriz\\source\\repos\\Gerenciamento Financeiro\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T20:10:53.926Z",
               "IsPinned": true,
@@ -94,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "LancamentosRepository.cs",
               "DocumentMoniker": "C:\\Users\\yuriz\\source\\repos\\Gerenciamento Financeiro\\Repository Pattern\\LancamentosRepository.cs",
               "RelativeDocumentMoniker": "Repository Pattern\\LancamentosRepository.cs",
@@ -106,12 +113,38 @@
               "IsPinned": true
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gerenciamento Financeiro",
+              "DocumentMoniker": "C:\\Users\\yuriz\\source\\repos\\Gerenciamento Financeiro\\Gerenciamento Financeiro.csproj",
+              "RelativeDocumentMoniker": "Gerenciamento Financeiro.csproj",
+              "ToolTip": "C:\\Users\\yuriz\\source\\repos\\Gerenciamento Financeiro\\Gerenciamento Financeiro.csproj",
+              "RelativeToolTip": "Gerenciamento Financeiro.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T19:01:11.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yuriz\\source\\repos\\Gerenciamento Financeiro\\temp\\appsettings.json",
+              "RelativeDocumentMoniker": "temp\\appsettings.json",
+              "ToolTip": "C:\\Users\\yuriz\\source\\repos\\Gerenciamento Financeiro\\temp\\appsettings.json",
+              "RelativeToolTip": "temp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-27T18:56:04.295Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\yuriz\\source\\repos\\Gerenciamento Financeiro\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -119,11 +152,12 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-27T12:44:25.535Z"
+              "WhenOpened": "2026-01-27T12:44:25.535Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\yuriz\\source\\repos\\Gerenciamento Financeiro\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -135,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "IUsuariosRepository.cs",
               "DocumentMoniker": "C:\\Users\\yuriz\\source\\repos\\Gerenciamento Financeiro\\Repository Pattern\\IUsuariosRepository.cs",
               "RelativeDocumentMoniker": "Repository Pattern\\IUsuariosRepository.cs",
@@ -147,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "UserContext.cs",
               "DocumentMoniker": "C:\\Users\\yuriz\\source\\repos\\Gerenciamento Financeiro\\Data\\UserContext.cs",
               "RelativeDocumentMoniker": "Data\\UserContext.cs",
@@ -159,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "LancamentosController.cs",
               "DocumentMoniker": "C:\\Users\\yuriz\\source\\repos\\Gerenciamento Financeiro\\Controllers\\LancamentosController.cs",
               "RelativeDocumentMoniker": "Controllers\\LancamentosController.cs",
@@ -171,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CategoriasController.cs",
               "DocumentMoniker": "C:\\Users\\yuriz\\source\\repos\\Gerenciamento Financeiro\\Controllers\\CategoriasController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriasController.cs",
@@ -183,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "UsuariosController.cs",
               "DocumentMoniker": "C:\\Users\\yuriz\\source\\repos\\Gerenciamento Financeiro\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
@@ -195,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Gerenciamento Financeiro.http",
               "DocumentMoniker": "C:\\Users\\yuriz\\source\\repos\\Gerenciamento Financeiro\\Gerenciamento Financeiro.http",
               "RelativeDocumentMoniker": "Gerenciamento Financeiro.http",
@@ -207,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Categorias.cs",
               "DocumentMoniker": "C:\\Users\\yuriz\\source\\repos\\Gerenciamento Financeiro\\Models\\Categorias.cs",
               "RelativeDocumentMoniker": "Models\\Categorias.cs",
@@ -219,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\yuriz\\source\\repos\\Gerenciamento Financeiro\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",

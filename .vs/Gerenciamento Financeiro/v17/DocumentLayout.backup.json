@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\yuriz\\source\\repos\\Gerenciamento Financeiro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43529038-1C81-491E-82CC-C1B097F3C2B2}|Gerenciamento Financeiro.csproj|c:\\users\\yuriz\\source\\repos\\gerenciamento financeiro\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43529038-1C81-491E-82CC-C1B097F3C2B2}|Gerenciamento Financeiro.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{43529038-1C81-491E-82CC-C1B097F3C2B2}|Gerenciamento Financeiro.csproj|c:\\users\\yuriz\\source\\repos\\gerenciamento financeiro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43529038-1C81-491E-82CC-C1B097F3C2B2}|Gerenciamento Financeiro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43529038-1C81-491E-82CC-C1B097F3C2B2}|Gerenciamento Financeiro.csproj|c:\\users\\yuriz\\source\\repos\\gerenciamento financeiro\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43529038-1C81-491E-82CC-C1B097F3C2B2}|Gerenciamento Financeiro.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43529038-1C81-491E-82CC-C1B097F3C2B2}|Gerenciamento Financeiro.csproj|c:\\users\\yuriz\\source\\repos\\gerenciamento financeiro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -62,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\yuriz\\source\\repos\\Gerenciamento Financeiro\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -75,18 +75,17 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T14:01:34.322Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yuriz\\source\\repos\\Gerenciamento Financeiro\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\yuriz\\source\\repos\\Gerenciamento Financeiro\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAEAAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T20:10:53.926Z",
               "IsPinned": true,
@@ -103,8 +102,11 @@
               "ViewState": "AgIAAB8AAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-20T19:43:50.787Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
@@ -116,8 +118,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-27T12:44:25.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T12:44:25.535Z"
             },
             {
               "$type": "Document",
@@ -129,8 +130,7 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-27T12:44:01.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T12:44:01.314Z"
             },
             {
               "$type": "Document",
@@ -142,8 +142,7 @@
               "RelativeToolTip": "Repository Pattern\\IUsuariosRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T12:24:18.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T12:24:18.803Z"
             },
             {
               "$type": "Document",
@@ -155,12 +154,7 @@
               "RelativeToolTip": "Data\\UserContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T12:16:36.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2026-01-27T12:16:36.019Z"
             },
             {
               "$type": "Document",
@@ -172,8 +166,7 @@
               "RelativeToolTip": "Controllers\\LancamentosController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T11:51:56.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T11:51:56.106Z"
             },
             {
               "$type": "Document",
@@ -185,8 +178,7 @@
               "RelativeToolTip": "Controllers\\CategoriasController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T11:51:54.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T11:51:54.303Z"
             },
             {
               "$type": "Document",
@@ -198,8 +190,7 @@
               "RelativeToolTip": "Controllers\\UsuariosController.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAIwEcAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T14:47:32.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T14:47:32.495Z"
             },
             {
               "$type": "Document",
@@ -211,8 +202,7 @@
               "RelativeToolTip": "Gerenciamento Financeiro.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-01-27T12:02:19.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T12:02:19.249Z"
             },
             {
               "$type": "Document",
@@ -224,8 +214,7 @@
               "RelativeToolTip": "Models\\Categorias.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T11:37:31.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T11:37:31.855Z"
             },
             {
               "$type": "Document",
@@ -237,8 +226,7 @@
               "RelativeToolTip": "Controllers\\AuthController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAD0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T14:06:23.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-23T14:06:23.91Z"
             }
           ]
         }
