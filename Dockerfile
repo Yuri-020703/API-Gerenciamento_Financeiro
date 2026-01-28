@@ -19,4 +19,4 @@ COPY --from=build /app/out ./
 EXPOSE 5000
 
 # Comando para rodar a API
-ENTRYPOINT ["dotnet", "Gerenciamento Financeiro.csproj"]
+ENTRYPOINT ["dotnet", "Gerenciamento_Financeiro.csproj"]
