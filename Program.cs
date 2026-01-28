@@ -19,11 +19,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy("FrontendPolicy", policy =>
     {
         // Adicione aqui os domínios que vão acessar sua API
-        policy.WithOrigins(
-                "http://localhost:3000",      // local host
-                "https://api-gerenciamento-financeiro-tp7k.onrender.com", // Api Publicada
-                "https://meufront.com"        // front publicado
-            )
+        policy.AllowAnyOrigin()          
             .AllowAnyHeader()   // Todos Header
             .AllowAnyMethod();  // Todos os métodos
     });
