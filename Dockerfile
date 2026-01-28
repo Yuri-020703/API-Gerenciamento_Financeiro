@@ -8,7 +8,7 @@ RUN dotnet restore
 
 # Copiar todo o código e publicar a aplicação
 COPY . ./
-RUN dotnet publish -c Release -o out
+RUN dotnet publish Gerenciamento_Financeiro.csproj -c Release -o out
 
 # Criar imagem final
 FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS runtime
